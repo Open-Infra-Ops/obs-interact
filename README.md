@@ -8,7 +8,7 @@
 
 ### 1.申请流程
 
-![1666608653673](assert\1666608653673.png)
+<img src="assert/1666608653673.png" alt="md5sum显示"/>
 
 ### 2.申请流程详解
 
@@ -43,7 +43,7 @@
   ~~~
 
   显示md5如下图所示：
-  ![1666611329324](assert\1666611329324.png)
+  <img src="assert/1666611329324.png" alt="md5sum显示"/>
 
   将生成的md5sum补充到yaml文件中。
 
@@ -54,8 +54,7 @@ obs-browser-plus客户端下载链接:   https://obs-community.obs.cn-north-1.my
 obs-browser-plus更多版本客户端下载链接:   https://developer.huaweicloud.com/tools#section-1
 
 登录界面：
-
-​	![1666611529115](assert\1666611529115.png)
+  <img src="assert/1666611529115.png" alt="登录页面"/>
 
 
 
