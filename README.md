@@ -30,7 +30,7 @@
   file_list:
     - filename: demo/1.txt # 文件路径
       md5sum: 2114B22E1FC03ADEC16E40D85C646532  # 对文件进行md5进行计算
-    - filename: demo/1.txt
+    - filename: 2.txt
       md5sum: D41D8CD98F00B204E9800998ECF8427E
   ~~~
 
