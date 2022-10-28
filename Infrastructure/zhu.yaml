@@ -1,0 +1,10 @@
+username: zhu
+community: Infrastructure
+anonymously_read: true
+file_list:
+  - filename: demo/1.txt
+    md5sum: 2114B22E1FC03ADEC16E40D85C646532
+  - filename: demo/3.txt
+    md5sum: D41D8CD98F00B204E9800998ECF8427E
+  - filename: demo/2.txt
+    md5sum: D41D8CD98F00B204E9800998ECF8427E
