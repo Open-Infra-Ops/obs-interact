@@ -1,4 +1,5 @@
-ServiceName: opengauss-hk-meetingserver
-UserName: zhuchao
+ServiceName: infra-scan-tools
+UserName: zhuchao88
+Email: 353712216@qq.com
 Role: admin
-TimeLimit: 20
+TimeLimit: 8
