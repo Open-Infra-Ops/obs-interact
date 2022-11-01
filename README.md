@@ -24,7 +24,7 @@
 
   ~~~bash
   username: zhu  # 用户名
-  community: Infrastructure # 社区，只能从以下选其一：Infrastructure、MindSpore、openGauss、openEuler、openLooKeng
+  community: Infra # 社区，只能从以下选其一：Infra、MindSpore、openGauss、openEuler、openLooKeng
   email: 3537**@qq.com   # 用于接受IAM账户和密码的邮件
   anonymously_read: true  # true：允许匿名用户读操作/false: 不允许匿名用户读操作
   file_list:
