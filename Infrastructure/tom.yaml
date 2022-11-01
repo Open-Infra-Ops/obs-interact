@@ -1,6 +1,6 @@
 username: tom
 community: Infrastructure
-anonymously_read: true
+anonymously_read: false
 email: 353712216@qq.com
 file_list:
   - filename: demo/1.txt
