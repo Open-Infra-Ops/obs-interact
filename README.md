@@ -24,19 +24,19 @@
   + yaml文件名称规范为：用户名.yaml，例如以下内容：
 
     ~~~bash
-    zhu.yaml # 用户名, 用户名和文件名必须匹配，只能为英文+数字，不能有特殊字符，长度最长为15.
+    zhu.yaml # 文件名, 文件名和用户名必须匹配，只能为英文+数字，不能有特殊字符，长度最长为15.
     ~~~
 
-  + yaml文件内容参考模板文件： assert/zhu.yaml文件，详细见：[模板文]
+  + yaml文件内容参考模板文件：[zhu.yaml](https://github.com/Open-Infra-Ops/obs-interact/blob/main/assert/zhu.yaml)
 
     ~~~yaml
     username: zhu  # 用户名, 用户名和文件名必须匹配，只能为英文+数字，不能有特殊字符，长度最长为15
     community: Infra # 社区，只能从以下选其一：Infra、MindSpore、openGauss、openEuler、openLooKeng
-    email: 3537**@qq.com   # 用于接受IAM账户和密码的邮件
     anonymously_read: true  # true：允许匿名用户读操作/false: 不允许匿名用户读操作
+    email: 3537**@qq.com   # 用于接受IAM账户和密码的邮件
     file_list:
       - filename: demo/1.txt # 文件
-        md5sum: 2114B22E1FC03ADEC16E40D85C646532  # 对文件进行md5进行计算
+        md5sum: 2114B22E1FC03ADEC16E40D85C646532  # 对文件进行md5sum计算
       - filename: 2.txt
         md5sum: D41D8CD98F00B204E9800998ECF8427E
     ~~~
@@ -90,6 +90,8 @@
 
   obs-browser-plus更多版本客户端下载链接:   https://developer.huaweicloud.com/tools#section-1
 
+  更多安装请参考：https://gitee.com/openeuler/infrastructure/tree/master/docs/obs-transfer
+
 + 下载后使用邮件中的信息进行登录。
 
   登录界面：
@@ -112,9 +114,11 @@
 
 - 用户上传成功后，需要在pr中评论`/check_upload`进行上传数据检查
 
-- 检查内容主要是： md5sum检查，防止上传文件不完整 /  lack文件检查，防止少传、漏传 /  敏感文件数据
+- 检查内容主要是： md5sum检查，防止上传文件不完整 /  lack文件检查，防止少传、漏传 /  敏感数据 / 敏感文件
 
-- 怎么定义敏感数据？文件中带有以下后缀名， 或上传数据中存在手机号，邮件等内容。
+- 怎么定义敏感数据？ 上传文本数据中存在手机号，邮件等内容
+
+- 怎么定义敏感文件？文件中带有以下后缀名。
 
   ~~~bash
   "sh", "java", "jsp", "sql", "conf", "cer", "php", "php5", "asp", "cgi", "aspx", "war", "bat","c", "cc", "cpp", "cs", "go", "lua", "perl", "pl", "py", "rb", "vb", "vbs", "vba", "h", "jar", "properties", "config", "class"
