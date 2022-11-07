@@ -102,6 +102,10 @@
 
   输入密码： 复制邮件中的密码  <img src="assert/1666611529115.png" alt="登录页面"/>
 
++ 设置obs-browser-plus, 必须设置md5sum检查，否则后续check_upload会报数据不一致。
+
+  <img src="assert/客户端设置.png" alt="客户端设置"/>
+
 + 登录后上传文件
 
   输入桶路径： 可以复制邮件中的桶路径
