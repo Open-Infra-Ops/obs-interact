@@ -1,0 +1,23 @@
+username: onlineVideo
+community: openEuler
+anonymously_read: true
+email: tom_toworld@163.com
+file_list:
+  - filename: 1-openEule开源操作系统整体介绍.mp4
+    md5sum: 59870561928AA4FD38409C2242F4760D
+  - filename: 12-openEuler开源社区.mp4
+    md5sum: 66E631731081EBD4F19CBE79FD242268
+  - filename: 13-麒麟软件-银河麒麟高级服务器操作系统V10高性能高安全高可用.mp4
+    md5sum: C50EFE64C1EAF123A407724F836C30E2
+  - filename: 14-统信软件-统信服务器操作系统创新生态.mp4
+    md5sum: 3896069DDFFF7C43C79D9A568C2B89D3
+  - filename: 15-麒麟信安-openEuler生态多场景应用的优选.mp4
+    md5sum: A3F90B2E0EE19A800E4BE42E9BD3AC61
+  - filename: 16-超聚变-可信多样性算力操作系统.mp4
+    md5sum: D075058500359630BCEE5487EBB6FE3E
+  - filename: 17-中科院软件所-傲空间 一个真正属于您的数字空间.mp4
+    md5sum: 880EE53C2FF61611D008A1D977D183A9
+  - filename: 19-润和软件-企业级安全操作系统服务器版.mp4
+    md5sum: 46E0CF4344AE63E694055E3924B6825F
+  - filename: 20-中科创达-工业分布式软总线智能管理系统.mp4
+    md5sum: B6527A1733FB1D0359161C6DA4AC69C6
