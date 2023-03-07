@@ -5,3 +5,5 @@ email: tom_toworld@163.com
 file_list:
   - filename: openEuler industry user case collection.pdf
     md5sum: 31A947CA45F5D0BA4BD6E998DEF209EE
+  - filename: 欧拉开源操作系统行业应用案例集.pdf
+    md5sum: b7c747fc9be5e43b15c39fefd04e0845
