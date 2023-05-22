@@ -1,19 +1,7 @@
 username: oGSP
 community: openGauss
 anonymously_read: true
-email: ailong@outlook.com
+email: ilong8@qq.com
 file_list:
-  - filename: 10086.jpg
-    md5sum: EE25FA49988F6EC9DD20448356E2D771
-  - filename: antute.jpg
-    md5sum: 6F8E897123558B1579D2299732926252
-  - filename: chinasofti.jpg
-    md5sum: 6656FE591CE15935CF50A482C8528541
-  - filename: enmotech.jpg
-    md5sum: 12727844A2807F9DE35EE4DCA8FC7FF3
-  - filename: gbase.jpg
-    md5sum: 8628ED14161FB48CB2E34EE9DC54BB03
-  - filename: shentongdata.jpg
-    md5sum: 27FCEC0F060BCFE756D54E26D1E75D3F
-  - filename: vastdata.jpg
-    md5sum: 52F51E82075518361632DE77773FD771
+  - filename: chinapost.jpg
+    md5sum: 02ACF5668F2987B5420B62084C201F64
