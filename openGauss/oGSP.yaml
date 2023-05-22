@@ -17,3 +17,5 @@ file_list:
     md5sum: 27FCEC0F060BCFE756D54E26D1E75D3F
   - filename: vastdata.jpg
     md5sum: 52F51E82075518361632DE77773FD771
+  - filename: chinapost.jpg
+    md5sum: 02ACF5668F2987B5420B62084C201F64
