@@ -1,9 +1,0 @@
-username: auth
-community: openGauss
-anonymously_read: true
-email: ilong8@qq.com
-file_list:
-  - filename: baidu.pdf
-    md5sum: 41AD0037E113719B9A3E52E803676A9C
-  - filename: fujifilm.pdf
-    md5sum: 66EE5293613A478CC22DFC1FDCF4F661
