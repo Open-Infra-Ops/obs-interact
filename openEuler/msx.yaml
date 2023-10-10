@@ -21,3 +21,5 @@ file_list:
     md5sum: 7C55D7D912838A601538A537738C0BB9
   - filename: ITServiceTools_1.0.T3_Arangodb_Any-aarch64.zip
     md5sum: 9CC24923E79FF98CA2E2BA8C63331706
+  - filename: OSMind 关键特性与价值.pdf
+    md5sum: 844851292F6109731E622DCDA80F5C5C
