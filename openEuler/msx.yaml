@@ -3,8 +3,8 @@ community: openEuler
 anonymously_read: true
 email: mashaoxun1@huawei.com
 file_list:
-  - filename: IT Service Tools 1.0.T5 OS Mind 产品文档.chm
-    md5sum: 5840BF49E20790BAB173CFA18E42624D
+  - filename: IT Service Tools 1.0.T5 OS Mind 产品文档.zip
+    md5sum: 673D65DEB51F0A96433937FFBAD0EE03
   - filename: ITServiceTools_1.0.T5.zip
     md5sum: 3B004F97EBDBD0616163B4F8A2857515
   - filename: ITServiceTools_1.0.T5_OSManager_Asset.zip
